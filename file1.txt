@@ -1,0 +1,18 @@
+total 64
+drwxrwxr-x  2 srinivasan srinivasan  4096 Jul 24 20:12 .
+drwxr-xr-x 87 srinivasan srinivasan 12288 Jul 24 20:12 ..
+-rw-rw-r--  1 srinivasan srinivasan     0 Jul 20 21:59 10
+-rwxrwxr-x  1 srinivasan srinivasan   511 Jul 20 22:16 age.sh
+-rwxrwxr-x  1 srinivasan srinivasan   146 Jul 20 22:20 case.sh
+-rwxrwxr-x  1 srinivasan srinivasan    60 Jul 20 21:54 catt.sh
+-rw-rw-r--  1 srinivasan srinivasan     0 Jul 24 20:12 file1.txt
+-rw-rw-r--  1 srinivasan srinivasan     0 Jul 24 20:12 file2.txt
+-rwxrwxr-x  1 srinivasan srinivasan    65 Jul 20 21:53 file.sh
+-rw-rw-r--  1 srinivasan srinivasan     4 Jul 20 21:50 file.txt
+-rwxrwxr-x  1 srinivasan srinivasan   347 Jul 20 22:35 for.sh
+-rwxrwxr-x  1 srinivasan srinivasan    32 Jul 20 21:47 hello.sh
+-rwxrwxr-x  1 srinivasan srinivasan   446 Jul 20 22:04 if.sh
+-rwxrwxr-x  1 srinivasan srinivasan   130 Jul 20 22:43 input.sh
+-rwxrwxr-x  1 srinivasan srinivasan    46 Jul 24 20:12 op.sh
+-rwxrwxr-x  1 srinivasan srinivasan    78 Jul 21 21:01 read.sh
+-rwxrwxr-x  1 srinivasan srinivasan   266 Jul 20 22:26 while.sh
